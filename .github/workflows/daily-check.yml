@@ -1,0 +1,30 @@
+name: Daily Web Page Monitor
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # 6am UK time (5am UTC during BST)
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run monitor script
+        run: python monitor_pages.py
+
+      - name: Upload change log
+        uses: actions/upload-artifact@v3
+        with:
+          name: change-log
+          path: change_log.txt
