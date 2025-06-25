@@ -6,8 +6,8 @@ import requests
 
 # File paths
 URLS_FILE = "extracted_urls.txt"
-HASHES_FILE = "page_hashes.json"
-LOG_FILE = "change_log.txt"
+HASHES_FILE = "outputs/page_hashes.json"
+LOG_FILE = "outputs/change_log.txt"
 
 # Load URLs from file
 with open(URLS_FILE, 'r') as f:
@@ -15,8 +15,11 @@ with open(URLS_FILE, 'r') as f:
 
 # Load previous hashes if available
 if os.path.exists(HASHES_FILE):
-    with open(HASHES_FILE, 'r') as f:
-        previous_hashes = json.load(f)
+    try:
+        with open(HASHES_FILE, 'r') as f:
+            previous_hashes = json.load(f)
+    except (json.JSONDecodeError, ValueError):
+        previous_hashes = {}
 else:
     previous_hashes = {}
 
