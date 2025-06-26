@@ -27,4 +27,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: change-log
-          path: change_log.txt
+          path: outputs/change_log.txt
