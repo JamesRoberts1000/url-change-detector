@@ -28,3 +28,28 @@ jobs:
         with:
           name: change-log
           path: outputs/change_log.txt
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if grep -q "CHANGE DETECTED" outputs/change_log.txt; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send email notification
+        if: steps.changes.outputs.changes == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_1 }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "Web Page Change Detected"
+          to: ${{ secrets.EMAIL_1 }},${{ secrets.EMAIL_2 }},${{ secrets.EMAIL_3 }}
+          from: ${{ secrets.EMAIL_1 }}
+          body: |
+            Changes were detected in the monitored web pages.
+            See the attached log for details.
+          attachments: outputs/change_log.txt
