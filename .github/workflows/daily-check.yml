@@ -34,6 +34,11 @@ jobs:
         run: |
           if grep -q "CHANGE DETECTED" outputs/change_log.txt; then
             echo "changes=true" >> $GITHUB_OUTPUT
+            # Read the HTML content for email
+            CHANGES_HTML=$(cat outputs/changes_summary.html)
+            echo "changes_html<<EOF" >> $GITHUB_OUTPUT
+            echo "$CHANGES_HTML" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
           else
             echo "changes=false" >> $GITHUB_OUTPUT
           fi
@@ -49,7 +54,6 @@ jobs:
           subject: "Web Page Change Detected"
           to: ${{ secrets.EMAIL_1 }},${{ secrets.EMAIL_2 }},${{ secrets.EMAIL_3 }}
           from: ${{ secrets.EMAIL_1 }}
-          body: |
-            Changes were detected in the monitored web pages.
-            See the attached log for details.
+          html_body: ${{ steps.changes.outputs.changes_html }}
+          convert_markdown: true
           attachments: outputs/change_log.txt
