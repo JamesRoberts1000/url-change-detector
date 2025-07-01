@@ -52,11 +52,16 @@ with open(LOG_FILE, 'a') as log:
                     title = url_to_title.get(url, url)  # Use URL if title not found
                     log.write(f"{datetime.utcnow().isoformat()} - CHANGE DETECTED: {title} ({url})\n")
                     changed_pages.append((title, url))
+                # No need for else here - if hash matches, page hasn't changed
             else:
-                log.write(f"{datetime.utcnow().isoformat()} - NEW URL MONITORED: {url}\n")
+                # This is a new URL we haven't seen before
+                title = url_to_title.get(url, url)
+                log.write(f"{datetime.utcnow().isoformat()} - NEW URL MONITORED: {title} ({url})\n")
                     
         except Exception as e:
             log.write(f"{datetime.utcnow().isoformat()} - ERROR FETCHING {url}: {e}\n")
+            # Don't include the hash for failed fetches
+            continue
 
 # Save current hashes for next run
 with open(HASHES_FILE, 'w') as f:
