@@ -20,8 +20,21 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Download previous hashes
+        uses: actions/download-artifact@v4
+        with:
+          name: page-hashes
+          path: outputs
+        continue-on-error: true
+
       - name: Run monitor script
         run: python monitor_pages.py
+
+      - name: Upload current hashes
+        uses: actions/upload-artifact@v4
+        with:
+          name: page-hashes
+          path: outputs/page_hashes.json
 
       - name: Upload change log
         uses: actions/upload-artifact@v4
