@@ -1,0 +1,347 @@
+2025-07-21T08:46:07.494128 - CHANGE DETECTED: All
+policies in an alphabetical list - Dorset Council (https://www.dorsetcouncil.gov.uk/policies-and-strategies-library/all-policies-in-an-alphabetical-list)
+2025-07-21T08:46:07.763401 - CHANGE DETECTED: 20 Mile Per Hour (mph) Policy (https://www.dorsetcouncil.gov.uk/w/20-mile-per-hour-mph-policy)
+2025-07-21T08:46:08.004512 - CHANGE DETECTED: A-Board Advertising Signs Policy (https://www.dorsetcouncil.gov.uk/w/a-board-advertising-signs-policy)
+2025-07-21T08:46:08.195105 - CHANGE DETECTED: Accessibility Strategy 2022 to 2025 (https://www.dorsetcouncil.gov.uk/w/accessibility-strategy-2022-to-2025)
+2025-07-21T08:46:08.683062 - CHANGE DETECTED: Accommodation
+with Support Programme. A programme within the transformation, investment and
+reform programme (https://www.dorsetcouncil.gov.uk/w/accommodation-with-support-programme-a-programme-within-the-transformation-investment-reform-programme)
+2025-07-21T08:46:08.967931 - CHANGE DETECTED: Admission Arrangements for Community and Voluntary Controlled Schools in Dorset Council 2024 to 2025 (https://www.dorsetcouncil.gov.uk/w/admission-arrangements-for-community-and-voluntary-controlled-schools-in-dorset-council-2024-2025)
+2025-07-21T08:46:09.335430 - CHANGE DETECTED: Admission Arrangements for Community and Voluntary Controlled Schools in Dorset Council 2026 to 2027 (https://www.dorsetcouncil.gov.uk/w/admission-arrangements-for-community-and-voluntary-controlled-schools-in-dorset-council-2026-to-2027)
+2025-07-21T08:46:09.549263 - CHANGE DETECTED:  of Armed Forces Community Children Policy 2024 to 2025 (https://www.dorsetcouncil.gov.uk/w/admission-of-armed-forces-community-children-policy-2024-2025-1)
+2025-07-21T08:46:12.914751 - CHANGE DETECTED: Admission
+of Armed Forces Community Children Policy 2025 to 2026 (https://www.dorsetcouncil.gov.uk/w/dorset-council-admission-of-armed-forces-community-children-policy-2025-2026)
+2025-07-21T08:46:13.138096 - CHANGE DETECTED: Admission of Armed Forces Community Children Policy 2026 to 2027 (https://www.dorsetcouncil.gov.uk/w/admission-of-armed-forces-community-children-policy-2026-to-2027)
+2025-07-21T08:46:13.369727 - CHANGE DETECTED: Adopted Highway Policy (https://www.dorsetcouncil.gov.uk/w/adopted-highway-policy)
+2025-07-21T08:46:13.794939 - CHANGE DETECTED: Adult Services Complaints Policy and Procedure (https://www.dorsetcouncil.gov.uk/w/dorset-council-adult-services-complaints-policy-and-procedure)
+2025-07-21T08:46:14.143237 - CHANGE DETECTED: Anti Money Laundering Policy 2022 to 2025 (https://www.dorsetcouncil.gov.uk/w/anti-money-laundering-policy-2022-to-2025)
+2025-07-21T08:46:14.344599 - CHANGE DETECTED: Anti-bullying Strategy (https://www.dorsetcouncil.gov.uk/w/anti-bullying-strategy-1)
+2025-07-21T08:46:14.659304 - CHANGE DETECTED: Anti-Fraud, Corruption and Bribery Strategy 2022 to 2025 (https://www.dorsetcouncil.gov.uk/w/anti-fraud-corruption-and-bribery-strategy-2022)
+2025-07-21T08:46:14.871813 - CHANGE DETECTED: Archaeological Fieldwork on Dorset Council Land Policy (https://www.dorsetcouncil.gov.uk/w/archaeological-fieldwork-on-dorset-council-land-policy)
+2025-07-21T08:46:15.155536 - CHANGE DETECTED: Art, Statues and Monuments on the Highway Policy 2021 (https://www.dorsetcouncil.gov.uk/w/art-statues-and-monuments-on-the-highway-policy-2021)
+2025-07-21T08:46:15.586301 - CHANGE DETECTED: Artz+Sportz+ Supporting children with medical conditions policy (https://www.dorsetcouncil.gov.uk/w/artz-sportz-supporting-children-with-medical-conditions-policy)
+2025-07-21T08:46:15.991478 - CHANGE DETECTED: Attendance Strategy and Plan 2023 (https://www.dorsetcouncil.gov.uk/w/dorset-council-attendance-strategy-and-plan-2022)
+2025-07-21T08:46:16.354587 - CHANGE DETECTED: Back or Forward Yearing Policy (https://www.dorsetcouncil.gov.uk/w/back-or-forward-yearing-policy)
+2025-07-21T08:46:16.706464 - CHANGE DETECTED: Belonging Strategy and Plan 2024 to 2027 (https://www.dorsetcouncil.gov.uk/w/dorset-belonging-strategy-and-plan-2024-to-2027)
+2025-07-21T08:46:16.962814 - CHANGE DETECTED: Better Commissioning for Better Lives 2023 to 2028 (https://www.dorsetcouncil.gov.uk/w/commissioning-for-a-better-life-as-people-age-in-dorset-2023-to-20-1)
+2025-07-21T08:46:17.318394 - CHANGE DETECTED: Blue Badge Car Park Charging Policy revised 2024 (https://www.dorsetcouncil.gov.uk/w/blue-badge-car-park-charging-policy-revised-2024)
+2025-07-21T08:46:17.535130 - CHANGE DETECTED: Bournemouth, Dorset and Poole Multi Agency Safeguarding Adults Policy 2023 (https://www.dorsetcouncil.gov.uk/w/bournemouth-dorset-and-poole-multi-agency-safeguarding-adults-policy)
+2025-07-21T08:46:17.742313 - CHANGE DETECTED: Bournemouth, 
+Poole and Dorset Local Transport Plan - Motorcycle Strategy (https://www.dorsetcouncil.gov.uk/w/bournemouth-poole-and-dorset-local-transport-plan-motorcycle-strategy)
+2025-07-21T08:46:17.996448 - CHANGE DETECTED: Bournemouth, 
+Poole and Dorset Local Transport Plan - Cycling Strategy (https://www.dorsetcouncil.gov.uk/w/bournemouth-poole-and-dorset-local-transport-plan-cycling-strategy)
+2025-07-21T08:46:18.244930 - CHANGE DETECTED: Bournemouth, 
+Poole and Dorset Local Transport Plan - Low Carbon Travel Strategy (https://www.dorsetcouncil.gov.uk/w/bournemouth-poole-and-dorset-local-transport-plan-low-carbon-travel-strategy)
+2025-07-21T08:46:18.453378 - CHANGE DETECTED: Bournemouth, 
+Poole and Dorset Local Transport Plan 3 (https://www.dorsetcouncil.gov.uk/w/bournemouth-poole-and-dorset-local-transport-plan-3)
+2025-07-21T08:46:18.774576 - CHANGE DETECTED: Bournemouth, 
+Poole and Dorset Local Transport Plan 3 - Road Safety Strategy 2011 to 2026 (https://www.dorsetcouncil.gov.uk/w/bournemouth-poole-and-dorset-local-transport-plan-3-road-safety-strategy-2011-to-2026)
+2025-07-21T08:46:18.988460 - CHANGE DETECTED: Bournemouth, 
+Poole and Dorset Local Transport Plan. Accessibility Strategy (https://www.dorsetcouncil.gov.uk/w/bournemouth-poole-and-dorset-local-transport-plan.-accessibility-strategy)
+2025-07-21T08:46:19.205375 - CHANGE DETECTED: Bournemouth, 
+Poole and Dorset Local Transport Plan - Health Strategy (https://www.dorsetcouncil.gov.uk/w/bournemouth-poole-and-dorset-local-transport-plan-health-strategy)
+2025-07-21T08:46:19.439113 - CHANGE DETECTED: Bournemouth, 
+Poole and Dorset Local Transport Plan - Sustainable Modes of Travel to School
+Strategy (https://www.dorsetcouncil.gov.uk/w/bournemouth-poole-and-dorset-local-transport-plan-sustainable-modes-of-travel-to-school-strategy)
+2025-07-21T08:46:19.804209 - CHANGE DETECTED: Bournemouth, 
+Poole and Dorset Local Transport Plan 2011 to 2026 Summary (https://www.dorsetcouncil.gov.uk/w/bournemouth-poole-and-dorset-local-transport-plan-2011-to-2026-summary)
+2025-07-21T08:46:20.183588 - CHANGE DETECTED: Bus Service Improvement Plan (https://www.dorsetcouncil.gov.uk/w/bus-service-improvement-plan-1)
+2025-07-21T08:46:20.472494 - CHANGE DETECTED: Capital Strategy 2023 to 2028 (https://www.dorsetcouncil.gov.uk/w/capital-strategy-2023-to-2028)
+2025-07-21T08:46:20.806657 - CHANGE DETECTED: Capital Strategy 2024/25-2027/28 (https://www.dorsetcouncil.gov.uk/w/capital-strategy-2024/25-2027/28)
+2025-07-21T08:46:21.104491 - CHANGE DETECTED: Charging and Financial
+Assessment Policy 2021 (https://www.dorsetcouncil.gov.uk/w/charging-and-financial-assessment-policy-2021)
+2025-07-21T08:46:21.304930 - CHANGE DETECTED: Child Performance Licence Policy (https://www.dorsetcouncil.gov.uk/w/child-performance-licence-policy)
+2025-07-21T08:46:21.613743 - CHANGE DETECTED: Children in Care Policy (https://www.dorsetcouncil.gov.uk/w/children-in-care-policy-1)
+2025-07-21T08:46:21.882963 - CHANGE DETECTED: Children Missing Education Policy (https://www.dorsetcouncil.gov.uk/w/children-missing-education)
+2025-07-21T08:46:22.350979 - CHANGE DETECTED: Children, Young
+People and Families' Plan 2023 to 2033 (https://www.dorsetcouncil.gov.uk/w/children-young-people-and-families-plan-2023-to-33)
+2025-07-21T08:46:22.638971 - CHANGE DETECTED: Children,
+Young People and Families' Plan 2023 to 2033 easy read version (https://www.dorsetcouncil.gov.uk/w/children-young-people-and-families-plan-2023-to-2033-easy-read-version)
+2025-07-21T08:46:22.957818 - CHANGE DETECTED: Civil
+Parking Enforcement Policy Dec 2024 – Part II Appeals (https://www.dorsetcouncil.gov.uk/w/civil-parking-enforcement-policy-dec-2024-part-ii-appeals)
+2025-07-21T08:46:23.351467 - CHANGE DETECTED: Civil
+Parking Enforcement Policy, Dec 2024 Part 1: Enforcement (https://www.dorsetcouncil.gov.uk/w/civil-parking-enforcement-policy-dec-2024-part-1-enforcement)
+2025-07-21T08:46:23.564295 - CHANGE DETECTED: Climate and
+Ecological Emergency Strategy and Action Plan (https://www.dorsetcouncil.gov.uk/w/climate-and-ecological-emergency-strategy-and-action-plan)
+2025-07-21T08:46:23.982620 - CHANGE DETECTED: Commercial Strategy (https://www.dorsetcouncil.gov.uk/w/commercial-strategy)
+2025-07-21T08:46:24.219187 - CHANGE DETECTED: Commissioning
+for A Better Life as People Age in Dorset 2023 to 2028 (https://www.dorsetcouncil.gov.uk/w/commissioning-for-a-better-life-as-people-age-in-dorset-2023-to-2028)
+2025-07-21T08:46:24.442228 - CHANGE DETECTED: Commissioning
+for A Better Life for Adults in Dorset 2023 to 2028 (https://www.dorsetcouncil.gov.uk/w/commissioning-for-a-better-life-for-adults-in-dorset-2023-to-2028)
+2025-07-21T08:46:24.897213 - CHANGE DETECTED: Commissioning
+for A Better Life for Carers in Dorset 2023 to 2028 (https://www.dorsetcouncil.gov.uk/w/commissioning-for-a-better-life-for-carers-in-dorset-2023-to-2028)
+2025-07-21T08:46:25.159722 - CHANGE DETECTED: Community Asset Transfer
+Policy 2024 to 2026 (https://www.dorsetcouncil.gov.uk/w/community-asset-transfer-policy-2024)
+2025-07-21T08:46:28.374737 - CHANGE DETECTED: Community
+Infrastructure Levy Regulations 2010 (as amended). Exceptional Circumstances
+Relief Policy (https://www.dorsetcouncil.gov.uk/w/community-infrastructure-levy-regulations-2010-as-amended-.)
+2025-07-21T08:46:28.787217 - CHANGE DETECTED: Community
+Safety Plan (CSIP) 2020 to 2026 (2024 refresh) (https://www.dorsetcouncil.gov.uk/w/community-safety-plan-csip-2020-2023)
+2025-07-21T08:46:29.058075 - CHANGE DETECTED: Community Safety
+Plan 2023 to 2026 2024/25 Refresh (https://www.dorsetcouncil.gov.uk/w/community-safety-plan-2023-2026-2024/25-refresh)
+2025-07-21T08:46:29.253277 - CHANGE DETECTED: Community Signs Policy (https://www.dorsetcouncil.gov.uk/w/community-signs-policy-1)
+2025-07-21T08:46:29.614929 - CHANGE DETECTED: Consultation and Engagement Policy (https://www.dorsetcouncil.gov.uk/w/consultation-and-engagement-policy)
+2025-07-21T08:46:29.843897 - CHANGE DETECTED: Controlled Waste Regulations
+2012 Policy (https://www.dorsetcouncil.gov.uk/w/controlled-waste-regulations-2012-policy)
+2025-07-21T08:46:30.230216 - CHANGE DETECTED: Corporate Parenting Strategy
+2024 to 2027 (https://www.dorsetcouncil.gov.uk/w/corporate-parenting-strategy-2024-to-2027)
+2025-07-21T08:46:30.500136 - CHANGE DETECTED: Council Tax – Support for Care
+Leavers (https://www.dorsetcouncil.gov.uk/w/council-tax-support-for-care-leavers-1)
+2025-07-21T08:46:30.745233 - CHANGE DETECTED: Council Tax Discretionary
+Discounts Policy (https://www.dorsetcouncil.gov.uk/w/council-tax-discretionary-discounts-policy-1)
+2025-07-21T08:46:31.466071 - CHANGE DETECTED: Council Tax Reduction Scheme
+2024 to 2025 (https://www.dorsetcouncil.gov.uk/w/council-tax-reduction-scheme-2024-to-2025-1)
+2025-07-21T08:46:31.737122 - CHANGE DETECTED: Council
+Tax Reduction Scheme 2024 to 2025. Schedule 1 - Calculation of the amount of
+Council Tax Reduction in accordance with the Discount Scheme (https://www.dorsetcouncil.gov.uk/w/council-tax-reduction-scheme-2024-to-2025.-schedule-1-calculation-of-the-amount-of-council-tax-reduction-in-accordance-with-the-discount-scheme)
+2025-07-21T08:46:32.071316 - CHANGE DETECTED: Council
+Tax Reduction Scheme 2024 to 2025. Schedule 2 - Sums to be disregarded in the
+calculation of income other than earnings (https://www.dorsetcouncil.gov.uk/w/council-tax-reduction-scheme-2024-to-2025-schedule-2-sums-to-be-disregarded-in-the-calculation-of-income-other-than-earnings)
+2025-07-21T08:46:32.477570 - CHANGE DETECTED: Council
+Tax Reduction Scheme 2024 to 2025. Schedule 3 - Capital to be disregarded (https://www.dorsetcouncil.gov.uk/w/council-tax-reduction-scheme-2024-to-2025-schedule-3-capital-to-be-disregarded)
+2025-07-21T08:46:32.880982 - CHANGE DETECTED: Council
+Tax Reduction Scheme 2024 to 2025. Schedule 4 - Amounts to be disregarded from
+earnings (https://www.dorsetcouncil.gov.uk/w/council-tax-reduction-scheme-2024-to-2025-schedule-4-amounts-to-be-disregarded-from-earnings.)
+2025-07-21T08:46:33.744012 - CHANGE DETECTED: Council Tax Reduction Scheme
+2025 to 2026 (https://www.dorsetcouncil.gov.uk/w/council-tax-reduction-scheme-2025-to-2026)
+2025-07-21T08:46:34.106856 - CHANGE DETECTED: County Farm Estate
+Management Plan 2016 to 2021 (https://www.dorsetcouncil.gov.uk/w/county-farm-estate-management-plan-2016-to-2021)
+2025-07-21T08:46:34.296994 - CHANGE DETECTED: Cranborne
+Chase Area of Outstanding Natural Beauty (AONB) Management Plan 2019 to 2024 (https://www.dorsetcouncil.gov.uk/w/cranborne-chase-area-of-outstanding-natural-beauty-aonb-management-plan-2019-2024)
+2025-07-21T08:46:34.737229 - CHANGE DETECTED: Cultural Strategy 2021 to 2026 (https://www.dorsetcouncil.gov.uk/w/cultural-strategy-2021-to-2026)
+2025-07-21T08:46:35.146978 - CHANGE DETECTED: Customer Strategy and Delivery Plan (https://www.dorsetcouncil.gov.uk/w/customer-strategy-and-delivery-plan)
+2025-07-21T08:46:35.549035 - CHANGE DETECTED: Data and Business
+Intelligence Strategy 2023 to 2028 (https://www.dorsetcouncil.gov.uk/w/data-and-business-intelligence-strategy-2023-2028)
+2025-07-21T08:46:35.849768 - CHANGE DETECTED: Data
+and Business Intelligence Strategy 2023 to 2028 Executive Summary (https://www.dorsetcouncil.gov.uk/w/data-and-business-intelligence-strategy-2023-to-2028-executive-summary)
+2025-07-21T08:46:36.084200 - CHANGE DETECTED: Data Sharing Policy (https://www.dorsetcouncil.gov.uk/w/data-sharing-policy)
+2025-07-21T08:46:36.568604 - CHANGE DETECTED: Deferred Payment Agreements
+Policy 2015 (https://www.dorsetcouncil.gov.uk/w/deferred-payment-agreements-policy-2015)
+2025-07-21T08:46:39.839701 - CHANGE DETECTED: Development
+Management Local Enforcement Plan 2024 (https://www.dorsetcouncil.gov.uk/w/development-management-local-enforcement-plan-2024)
+2025-07-21T08:46:40.216408 - CHANGE DETECTED: Digital Strategy 2020 to 2024 (https://www.dorsetcouncil.gov.uk/w/digital-strategy-2020-to-2024)
+2025-07-21T08:46:40.554014 - CHANGE DETECTED: Direct Payments Policy
+2022 (refreshed 2023) (https://www.dorsetcouncil.gov.uk/w/individual-service-funds-poli-1)
+2025-07-21T08:46:40.798709 - CHANGE DETECTED: Disclosure
+and Barring Service Checks for Councillors Policy (https://www.dorsetcouncil.gov.uk/w/disclosure-barring-service-checks-for-councillors-policy)
+2025-07-21T08:46:41.072220 - CHANGE DETECTED: Discretionary Housing
+Payments 2023 to 2026 (https://www.dorsetcouncil.gov.uk/w/discretionary-housing-payments-2023-to-2026)
+2025-07-21T08:46:41.338735 - CHANGE DETECTED: Discretionary Rates Relief Policy (https://www.dorsetcouncil.gov.uk/w/discretionary-rates-relief-policy-1)
+2025-07-21T08:46:41.634027 - CHANGE DETECTED: Disposable BBQ and
+Campfire/Wildfire Policy (https://www.dorsetcouncil.gov.uk/w/disposable-bbq-and-campfire/wildfire-policy)
+2025-07-21T08:46:41.839390 - CHANGE DETECTED: Domestic Abuse Strategy 2021 to
+2024 (https://www.dorsetcouncil.gov.uk/w/domestic-abuse-strategy-2021-2024-1)
+2025-07-21T08:46:42.076140 - CHANGE DETECTED: Dorset and
+BCP Safeguarding Adults Board Complaints Policy (https://www.dorsetcouncil.gov.uk/w/dorset-bcp-safeguarding-adults-board-complaints-policy)
+2025-07-21T08:46:42.407042 - CHANGE DETECTED: Dorset
+and BCP Safeguarding Adults Boards Communication and Engagement Strategy (https://www.dorsetcouncil.gov.uk/w/dorset-bcp-safeguarding-adults-boards-communication-and-engagement-strategy)
+2025-07-21T08:46:42.664194 - CHANGE DETECTED: Dorset
+and Bournemouth, Christchurch and Poole Mineral Sites Plan (https://www.dorsetcouncil.gov.uk/w/dorset-and-bournemouth-christchurch-and-poole-mineral-sites-plan)
+2025-07-21T08:46:42.872873 - CHANGE DETECTED: Dorset
+Area of Outstanding Natural Beauty Management Plan 2019 to 2024 (https://www.dorsetcouncil.gov.uk/w/dorset-area-of-outstanding-natural-beauty-management-plan-2019-2024)
+2025-07-21T08:46:43.084787 - CHANGE DETECTED: Dorset Co-ordinated
+Admission Scheme 2025 to 2026 (https://www.dorsetcouncil.gov.uk/w/dorset-co-ordinated-admission-scheme-2025-2026)
+2025-07-21T08:46:43.425362 - CHANGE DETECTED: Dorset Co-ordinated
+Admission Scheme 2026 to 2027 (https://www.dorsetcouncil.gov.uk/w/dorset-co-ordinated-admission-scheme-2026-to-2027)
+2025-07-21T08:46:43.660810 - CHANGE DETECTED: Dorset Coast Strategy 2023 to 2026 (https://www.dorsetcouncil.gov.uk/w/dorset-coast-strategy)
+2025-07-21T08:46:43.940253 - CHANGE DETECTED: Dorset
+Community Safety Partnership (CSP) Serious Violence Strategy (https://www.dorsetcouncil.gov.uk/w/dorset-csp-serious-violence-strategy)
+2025-07-21T08:46:44.163747 - CHANGE DETECTED: Dorset
+Council Blue Badge Car Park Charging Policy 2023 to 2024 (https://www.dorsetcouncil.gov.uk/w/dorset-council-blue-badge-car-park-charging-policy-2023)
+2025-07-21T08:46:44.450564 - CHANGE DETECTED: Dorset Council Car Parking Policies (https://www.dorsetcouncil.gov.uk/w/dorset-council-car-parking-policies)
+2025-07-21T08:46:44.810890 - CHANGE DETECTED: Dorset Council
+Children’s Commissioning Strategy (https://www.dorsetcouncil.gov.uk/w/dorset-council-children-s-commissioning-strategy-1)
+2025-07-21T08:46:45.186138 - CHANGE DETECTED: Dorset Council Criminal
+Conviction Policy (https://www.dorsetcouncil.gov.uk/w/dorset-council-criminal-conviction-policy)
+2025-07-21T08:46:45.476368 - CHANGE DETECTED: Dorset Council Digital Vision (https://www.dorsetcouncil.gov.uk/w/dorset-council-digital-vision)
+2025-07-21T08:46:46.006709 - CHANGE DETECTED: Dorset
+Council draft housing allocation scheme 2026 to 2031 (https://www.dorsetcouncil.gov.uk/w/dorset-council-draft-housing-allocation-scheme-2026-to-2031)
+2025-07-21T08:46:46.565360 - CHANGE DETECTED: Dorset
+Council Enforcement Policy and Enforcement Procedures and Guidelines (https://www.dorsetcouncil.gov.uk/w/dorset-waste-partnership-enforcement-policy-and-enforcement-procedures-and-guidelines)
+2025-07-21T08:46:47.133716 - CHANGE DETECTED: Dorset Council Harbours
+Strategy 2022 to 2032 (https://www.dorsetcouncil.gov.uk/w/dorset-council-harbours-strategy-2022-to-2032)
+2025-07-21T08:46:47.709824 - CHANGE DETECTED: Dorset
+Council Housing Allocations Policy 2021 to 2026. Revised August 2024 (https://www.dorsetcouncil.gov.uk/w/dorset-council-housing-allocations-policy-2021-to-2026-revised-august-2024-duplicate-3)
+2025-07-21T08:46:47.924496 - CHANGE DETECTED: Dorset Council Libraries
+Noticeboard Policy (https://www.dorsetcouncil.gov.uk/w/dorset-council-libraries-noticeboard-policy-3)
+2025-07-21T08:46:48.349804 - CHANGE DETECTED: Dorset Council Management of
+Trees Policy (https://www.dorsetcouncil.gov.uk/w/dorset-council-management-of-trees-policy)
+2025-07-21T08:46:48.601754 - CHANGE DETECTED: Dorset Council Plan 2022 to 2024 (https://www.dorsetcouncil.gov.uk/w/dorset-council-plan-2022-to-2024)
+2025-07-21T08:46:48.882127 - CHANGE DETECTED: Dorset Council
+Pollinators Action Plan 2019 to 2024 (https://www.dorsetcouncil.gov.uk/w/dorset-council-pollinators-action-plan-2019-2024)
+2025-07-21T08:46:49.110772 - CHANGE DETECTED: Dorset Council Productivity
+Plan 2024/2025 (https://www.dorsetcouncil.gov.uk/w/dorset-council-productivity-plan-2024/25)
+2025-07-21T08:46:49.306592 - CHANGE DETECTED: Dorset CouncilSocial MediaAcceptable Use Policy (https://www.dorsetcouncil.gov.uk/w/dorset-council-social-media-acceptable-use-policy)
+2025-07-21T08:46:49.684291 - CHANGE DETECTED: Dorset Council
+Transformation Plan 2025 to 2029 (https://www.dorsetcouncil.gov.uk/w/dorset-council-transformation-plan-2025-to-2029)
+2025-07-21T08:46:50.101737 - CHANGE DETECTED: Dorset Council Waste Strategy 2024 (https://www.dorsetcouncil.gov.uk/w/dorset-council-waste-strategy-2024)
+2025-07-21T08:46:50.391261 - CHANGE DETECTED: Dorset Council Whole
+Authority Complaints Policy (https://www.dorsetcouncil.gov.uk/w/dorset-council-whole-authority-complaints-policy-1)
+2025-07-21T08:46:50.704305 - CHANGE DETECTED: Dorset
+Extra Care Housing Strategic Statement 2024 to 2039 - Summary (https://www.dorsetcouncil.gov.uk/w/dorset-extra-care-housing-strategic-statement-2024-39-summary)
+2025-07-21T08:46:50.925614 - CHANGE DETECTED: Dorset Heathlands Framework
+2020 to 2025 (https://www.dorsetcouncil.gov.uk/w/dorset-heathlands-framework-2020-to-2025)
+2025-07-21T08:46:51.327049 - CHANGE DETECTED: Dorset
+Heathlands Interim Air Quality Strategy 2020 to 2025 (https://www.dorsetcouncil.gov.uk/w/dorset-heathlands-interim-air-quality-strategy-2020-to-2025)
+2025-07-21T08:46:51.531539 - CHANGE DETECTED: Dorset Highways Maintenance Plan (https://www.dorsetcouncil.gov.uk/w/dorset-highways-maintenance-plan-constitution)
+2025-07-21T08:46:51.815030 - CHANGE DETECTED: Dorset History
+Centre - Access in Constitution Policy (https://www.dorsetcouncil.gov.uk/w/access-in-constitution-policy)
+2025-07-21T08:46:52.244712 - CHANGE DETECTED: Dorset History Centre -
+Acquisition Policy (https://www.dorsetcouncil.gov.uk/w/acquisition-policy)
+2025-07-21T08:46:52.547763 - CHANGE DETECTED: Dorset
+History Centre - Collections Care and Conservation Policy 2020 to 2023 (https://www.dorsetcouncil.gov.uk/w/collections-care-conservation-policy-2020-to-2023)
+2025-07-21T08:46:52.909459 - CHANGE DETECTED: Dorset History
+Centre - Collections Development Policy (https://www.dorsetcouncil.gov.uk/w/collections-development-policy)
+2025-07-21T08:46:53.263980 - CHANGE DETECTED: Dorset History
+Centre - Digital Preservation Policy (https://www.dorsetcouncil.gov.uk/w/digital-preservation-policy)
+2025-07-21T08:46:56.772898 - CHANGE DETECTED: Dorset History Centre -
+Digitisation Policy (https://www.dorsetcouncil.gov.uk/w/digitisation-policy)
+2025-07-21T08:46:57.253482 - CHANGE DETECTED: Dorset
+History Centre - Learning and Public Engagement Policy (https://www.dorsetcouncil.gov.uk/w/learning-and-public-engagement-policy)
+2025-07-21T08:46:57.669847 - CHANGE DETECTED: Dorset History Centre -
+Preservation Policy (https://www.dorsetcouncil.gov.uk/w/preservation-policy)
+2025-07-21T08:46:58.071860 - CHANGE DETECTED: Dorset History Centre -
+Volunteer Policy (https://www.dorsetcouncil.gov.uk/w/volunteer-policy)
+2025-07-21T08:46:58.493393 - CHANGE DETECTED: Dorset
+Libraries Service Collection Development Policy 2024 (https://www.dorsetcouncil.gov.uk/w/dorset-libraries-service-collection-development-policy-2024)
+2025-07-21T08:46:58.904596 - CHANGE DETECTED: Dorset Library Strategy
+progress 2024 to 2025 (https://www.dorsetcouncil.gov.uk/w/dorset-library-strategy-progress-2024-2025)
+2025-07-21T08:47:01.143295 - CHANGE DETECTED: Dorset Local Industrial Strategy (https://www.dorsetcouncil.gov.uk/w/dorset-local-industrial-strategy)
+2025-07-21T08:47:01.446492 - CHANGE DETECTED: Dorset Mariculture Strategy
+2020 to 2025 (https://www.dorsetcouncil.gov.uk/w/dorset-mariculture-strategy-2020-to-2025)
+2025-07-21T08:47:01.762644 - CHANGE DETECTED: Dorset Minerals Strategy (https://www.dorsetcouncil.gov.uk/w/dorset-minerals-strategy)
+2025-07-21T08:47:02.280474 - CHANGE DETECTED: Dorset Police
+and Crime Panel Complaints Protocol 2023 (https://www.dorsetcouncil.gov.uk/w/dorset-police-and-crime-panel-complaints-protocol-2023)
+2025-07-21T08:47:02.906867 - CHANGE DETECTED: Dorset
+Rights of Way Improvement Plan (RoWIP) 2011 to 2021 (https://www.dorsetcouncil.gov.uk/w/dorset-rights-of-way-improvement-plan-rowip-2011-2021)
+2025-07-21T08:47:03.302798 - CHANGE DETECTED: Dorset
+Safeguarding Adults Board and Bournemouth, Christchurch & Poole
+Safeguarding Adults Board. Safeguarding Adults Review Policy (https://www.dorsetcouncil.gov.uk/w/dorset-safeguarding-adults-board-and-bournemouth-christchurch-poole-safeguarding-adults-board-safeguarding-adults-review-policy)
+2025-07-21T08:47:03.558792 - CHANGE DETECTED: Dorset
+Strategic Road Safety Partnership Strategy 2021 to 2030 (https://www.dorsetcouncil.gov.uk/w/dorset-strategic-road-safety-partnership-strategy-2021-2030-1)
+2025-07-21T08:47:03.815434 - CHANGE DETECTED: Dorset Waste Plan to 2033 (https://www.dorsetcouncil.gov.uk/w/dorset-waste-plan)
+2025-07-21T08:47:04.475705 - CHANGE DETECTED: Dorset's Economic Growth
+Strategy 2020 to 2024 (https://www.dorsetcouncil.gov.uk/w/dorset-s-economic-growth-strategy-2020-to-2024)
+2025-07-21T08:47:04.947669 - CHANGE DETECTED: Dorset's
+Extra Care Housing Strategic Statement 2024 to 2039 (https://www.dorsetcouncil.gov.uk/w/dorset-s-extra-care-housing-strategic-statement-2024-2039)
+2025-07-21T08:47:05.350175 - CHANGE DETECTED: Dorset’s
+Digital Infrastructure and Inclusion Strategy 2023 to 2030 (https://www.dorsetcouncil.gov.uk/w/dorset-s-digital-infrastructure-and-inclusion-strategy-2023-to-2030)
+2025-07-21T08:47:05.762241 - CHANGE DETECTED: Draft
+Pleasure Boat, Vessel and Boatperson Licensing Policy (https://www.dorsetcouncil.gov.uk/w/draft-pleasure-boat-vessel-and-boatperson-licensing-policy)
+2025-07-21T08:47:06.172649 - CHANGE DETECTED: Education Strategy 2024 to 2027 (https://www.dorsetcouncil.gov.uk/w/education-strategy-2024-2027)
+2025-07-21T08:47:06.386660 - CHANGE DETECTED: Electric Vehicle Strategy 2021
+to 2023 (https://www.dorsetcouncil.gov.uk/w/electric-vehicle-strategy-2021-to-2023-1)
+2025-07-21T08:47:06.744388 - CHANGE DETECTED: Eligibility
+and Assessment Criteria of the Adult Policy 2023 (https://www.dorsetcouncil.gov.uk/w/eligibility-and-assessment-criteria-of-the-adult-policy-2023)
+2025-07-21T08:47:07.177571 - CHANGE DETECTED: Environmental
+Enforcement Procedures and Guidelines (https://www.dorsetcouncil.gov.uk/w/environmental-enforcement-procedures-and-guidelines)
+2025-07-21T08:47:07.551137 - CHANGE DETECTED: Equality,
+Diversity and Inclusion Strategy 2021 to 2024 (https://www.dorsetcouncil.gov.uk/w/equality-diversity-and-inclusion-strategy-2021-2024-1)
+2025-07-21T08:47:07.849067 - CHANGE DETECTED: Equality, Diversity and
+Inclusion Policy (https://www.dorsetcouncil.gov.uk/w/equality-diversity-inclusion-policy)
+2025-07-21T08:47:08.221354 - CHANGE DETECTED: Equality,
+Diversity and Inclusion Strategy and Action Plan 2024 to 2027 (https://www.dorsetcouncil.gov.uk/w/equality-diversity-and-inclusion-strategy-and-action-plan-2024-to-2027)
+2025-07-21T08:47:08.502310 - CHANGE DETECTED: Errata
+- Interim Mitigation Strategy for Heathland Habitat Sites (2018/19 to 2023/24) (https://www.dorsetcouncil.gov.uk/w/errata-interim-mitigation-strategy-for-heathland-habitat-sites-2018/19-to-2023/24-)
+2025-07-21T08:47:08.938329 - CHANGE DETECTED: Family and Friends Care Policy (https://www.dorsetcouncil.gov.uk/w/family-and-friends-care-policy)
+2025-07-21T08:47:09.402824 - CHANGE DETECTED: Fees and Charges Policy 2023 (https://www.dorsetcouncil.gov.uk/w/fees-and-charges-policy-2023)
+2025-07-21T08:47:09.761226 - CHANGE DETECTED: General Statement of
+Enforcement Policy (https://www.dorsetcouncil.gov.uk/w/general-statement-of-enforcement-policy)
+2025-07-21T08:47:10.257821 - CHANGE DETECTED: Generic Enforcement Policies (https://www.dorsetcouncil.gov.uk/w/generic-enforcement-policies)
+2025-07-21T08:47:10.678081 - CHANGE DETECTED: Guidance
+on the Placement of a Pupil Outside their Chronological Age Group: 2024 to 2025 (https://www.dorsetcouncil.gov.uk/w/dorset-council-guidance-on-the-placement-of-a-pupil-outside-their-chronological-age-group-2024-to-2025)
+2025-07-21T08:47:10.928427 - CHANGE DETECTED: Hardship Rates Relief Policy (https://www.dorsetcouncil.gov.uk/w/hardship-rates-relief-policy-1)
+2025-07-21T08:47:11.282081 - CHANGE DETECTED: Health and Wellbeing
+Strategy 2020 to 2023 (https://www.dorsetcouncil.gov.uk/w/health-and-wellbeing-strategy-2020-to-2023)
+2025-07-21T08:47:11.548250 - CHANGE DETECTED: Highway Improvements Schemes Policy (https://www.dorsetcouncil.gov.uk/w/dorset-council-highway-improvements-schemes-policy-1)
+2025-07-21T08:47:12.014023 - CHANGE DETECTED: Highways Asset
+Management Policy and Strategy 2022 (https://www.dorsetcouncil.gov.uk/w/highways-asset-management-policy-and-strategy-2022)
+2025-07-21T08:47:14.974885 - CHANGE DETECTED: Highways Verge Management Policy
+2023 (https://www.dorsetcouncil.gov.uk/w/highways-verge-management-poli-1)
+2025-07-21T08:47:15.273481 - CHANGE DETECTED: Highways Working Together Policy (https://www.dorsetcouncil.gov.uk/w/highways-working-together-policy-1)
+2025-07-21T08:47:15.613374 - CHANGE DETECTED: Home to School Transport
+Policy 2024 to 2025 (https://www.dorsetcouncil.gov.uk/w/home-to-school-transport-policy-2024-to-2025)
+2025-07-21T08:47:16.465797 - CHANGE DETECTED: Homelessness and
+Rough Sleeping Strategy 2021 to 2026 (https://www.dorsetcouncil.gov.uk/w/homelessness-rough-sleeping-strategy-2021-to-2026)
+2025-07-21T08:47:16.917820 - CHANGE DETECTED: Household Recycling Centre
+Charges Policy (https://www.dorsetcouncil.gov.uk/w/household-recycling-centre-charges-policy)
+2025-07-21T08:47:17.181261 - CHANGE DETECTED: Household Recycling Centre Site
+Policy (https://www.dorsetcouncil.gov.uk/w/household-recycling-centre-site-policy-1)
+2025-07-21T08:47:17.413886 - CHANGE DETECTED: Household
+Recycling Centres (HRC) Vehicle Access Policy (https://www.dorsetcouncil.gov.uk/w/household-recycling-centres-hrc-vehicle-access-policy)
+2025-07-21T08:47:17.618996 - CHANGE DETECTED: Houses in
+Multiple Occupation (HMO) Licence Fees Policy (https://www.dorsetcouncil.gov.uk/w/houses-in-multiple-occupation-hmo-licence-fees-policy)
+2025-07-21T08:47:17.872437 - CHANGE DETECTED: Houses in
+Multiple Occupation (HMO) License Fees 2023 (https://www.dorsetcouncil.gov.uk/w/houses-in-multiple-occupation-hmo-license-fees-2023)
+2025-07-21T08:47:18.257613 - CHANGE DETECTED: Houses in Multiple
+Occupation Amenity Standards 2023 (https://www.dorsetcouncil.gov.uk/w/houses-in-multiple-occupation-amenity-standards-2023)
+2025-07-21T08:47:18.495227 - CHANGE DETECTED: Housing General
+Statement of Enforcement Policy (https://www.dorsetcouncil.gov.uk/w/housing-general-statement-of-enforcement-policy)
+2025-07-21T08:47:18.951486 - CHANGE DETECTED: Housing
+Standards Enforcement Policy and Statement of Principles for Determining
+Financial Penalties - October 2023 (https://www.dorsetcouncil.gov.uk/w/housing-standards-enforcement-policy-and-statement-of-principles-for-determining-financial-penalties-october-2023)
+2025-07-21T08:47:19.380978 - CHANGE DETECTED: Housing Strategy January
+2024 to January 2029 (https://www.dorsetcouncil.gov.uk/w/housing-strategy-january-2024-january-2029)
+2025-07-21T08:47:19.678705 - CHANGE DETECTED: How
+Are We Doing? - Your guide to making a comment, compliment or complaint (https://www.dorsetcouncil.gov.uk/w/how-are-we-doing-your-guide-to-making-a-comment-compliment-or-complaint)
+2025-07-21T08:47:19.977054 - CHANGE DETECTED: In Year
+Co-ordinated Admissions Scheme 2025 to 2026 (https://www.dorsetcouncil.gov.uk/w/in-year-co-ordinated-admissions-scheme-2025-to-2026)
+2025-07-21T08:47:20.399753 - CHANGE DETECTED: In Year
+Co-ordinated Admissions Scheme 2026 to 2027 (https://www.dorsetcouncil.gov.uk/w/in-year-co-ordinated-admissions-scheme-2026-to-2027)
+2025-07-21T08:47:20.709129 - CHANGE DETECTED: Individual Service Funds Policy (https://www.dorsetcouncil.gov.uk/w/individual-service-funds-policy)
+2025-07-21T08:47:20.944692 - CHANGE DETECTED: Infant
+Feeding and Child Nutrition Strategy​2024​ (https://www.dorsetcouncil.gov.uk/w/infant-feeding-and-child-nutrition-strategy-2024-)
+2025-07-21T08:47:21.244207 - CHANGE DETECTED: Information Governance Policy 2024 (https://www.dorsetcouncil.gov.uk/w/information-governance-policy-2024)
+2025-07-21T08:47:21.590197 - CHANGE DETECTED: Interim
+Strategy for Mitigating the Effects of Recreational Pressure on the Chesil
+Beach and the Fleet SAC, SPA and Ramsar (https://www.dorsetcouncil.gov.uk/w/interim-strategy-for-mitigating-the-effects-of-recreational-pressure-on-the-chesil-beach-and-the-fleet-sac-spa-and-ramsar)
+2025-07-21T08:47:22.359720 - CHANGE DETECTED: Joint Municipal
+Waste Strategy for Dorset 2008 to 2033 (https://www.dorsetcouncil.gov.uk/w/joint-municipal-waste-strategy-for-dorset-2008-2033)
+2025-07-21T08:47:22.794255 - CHANGE DETECTED: Joint Tenancy Strategy 2012 to 2015 (https://www.dorsetcouncil.gov.uk/w/joint-tenancy-strategy-2012-to-2015)
+2025-07-21T08:47:23.029165 - CHANGE DETECTED: Jurassic Coast Partnership
+Plan 2020 to 2025 (https://www.dorsetcouncil.gov.uk/w/jurassic-coast-partnership-plan-2020-to-2025)
+2025-07-21T08:47:23.255234 - CHANGE DETECTED: Licensing Policy for Sex
+Establishments (https://www.dorsetcouncil.gov.uk/w/licensing-policy-for-sex-establishments)
+2025-07-21T08:47:23.531714 - CHANGE DETECTED: Local Transport Plan 2011 to 2026 (https://www.dorsetcouncil.gov.uk/w/local-transport-plan-3-1)
+2025-07-21T08:47:23.766047 - CHANGE DETECTED: Maintained Nursery Units
+Policy 2024 to 2025 (https://www.dorsetcouncil.gov.uk/w/maintained-nursery-units-policy-2024-2025-1)
+2025-07-21T08:47:24.017288 - CHANGE DETECTED: Maintained Nursery Units
+Policy 2025 to 2026 (https://www.dorsetcouncil.gov.uk/w/dorset-council-maintained-nursery-units-policy-2025-2026)
+2025-07-21T08:47:24.278394 - CHANGE DETECTED: Maintained Nursery Units
+Policy 2026 to 2027 (https://www.dorsetcouncil.gov.uk/w/maintained-nursery-units-policy-2026-to-2027-1)
+2025-07-21T08:47:27.983168 - CHANGE DETECTED: Managing Customer Behaviour
+Protocol (https://www.dorsetcouncil.gov.uk/w/managing-unreasonable-customer-behaviour-protocol-2024)
+2025-07-21T08:47:28.587130 - CHANGE DETECTED: Minerals Planning Policy (https://www.dorsetcouncil.gov.uk/w/minerals-planning-policy)
+2025-07-21T08:47:28.830405 - CHANGE DETECTED: Modern Slavery
+Transparency Statement 2022 to 2023 (https://www.dorsetcouncil.gov.uk/w/modern-slavery-transparency-statement)
+2025-07-21T08:47:29.144279 - CHANGE DETECTED: Modern Slavery
+Transparency Statement 2023 to 2024 (https://www.dorsetcouncil.gov.uk/w/modern-slavery-transparency-statement-2023-2024)
+2025-07-21T08:47:29.570923 - CHANGE DETECTED: National
+Bus Strategy Transport Act 2000 Enhanced Partnership Plan and Scheme (https://www.dorsetcouncil.gov.uk/w/national-bus-strategy-transport-act-2000-enhanced-partnership-plan-and-scheme)
+2025-07-21T08:47:29.838232 - CHANGE DETECTED: Natural
+Environment, Climate and Ecology Action Plan 2023 to 2025 (https://www.dorsetcouncil.gov.uk/w/natural-environment-climate-ecology-action-plan-2023-to-2025)
+2025-07-21T08:47:30.346184 - CHANGE DETECTED: Natural
+Environment, Climate and Ecology Strategy 2023 to 25 Refresh (https://www.dorsetcouncil.gov.uk/w/natural-environment-climate-ecology-strategy-2023-25-refresh)
+2025-07-21T08:47:30.547474 - CHANGE DETECTED: New Directory Record Entry Policy (https://www.dorsetcouncil.gov.uk/w/new-directory-record-entry-policy-1)
+2025-07-21T08:47:30.840656 - CHANGE DETECTED: Nursery Childcare Fee Policy 2024 (https://www.dorsetcouncil.gov.uk/w/nursery-childcare-fee-policy-2024)
+2025-07-21T08:47:31.059035 - CHANGE DETECTED: Nutritional Care Strategy (https://www.dorsetcouncil.gov.uk/w/nutritional-care-strategy)
+2025-07-21T08:47:31.268360 - CHANGE DETECTED: On Street Parking Enforcement
+Policy (https://www.dorsetcouncil.gov.uk/w/on-street-parking-enforcement-policy)
+2025-07-21T08:47:31.592451 - CHANGE DETECTED: Pan Dorset
+Reducing Reoffending Strategy 2018 to 2021 (https://www.dorsetcouncil.gov.uk/w/pan-dorset-reducing-reoffending-strategy-2018-2021-1)
+2025-07-21T08:47:31.978863 - CHANGE DETECTED: Pan-Dorset
+Reducing Reoffending Strategy 2024 to 2027 (https://www.dorsetcouncil.gov.uk/w/pan-dorset-reducing-reoffending-strategy-2024-2027-1)
+2025-07-21T08:47:32.385245 - CHANGE DETECTED: Park Homes Fees Policy (https://www.dorsetcouncil.gov.uk/w/park-homes-fees-policy)
+2025-07-21T08:47:32.685829 - CHANGE DETECTED: Pay Policy Statement 2024 to 2025 (https://www.dorsetcouncil.gov.uk/w/pay-policy-statement-2023/24)
+2025-07-21T08:47:32.900337 - CHANGE DETECTED: Pedestrian Dropped Kerbs Policy (https://www.dorsetcouncil.gov.uk/w/pedestrian-dropped-kerbs-policy)
+2025-07-21T08:47:33.107847 - CHANGE DETECTED: Penalty Charge Notice
+(PCN) Cancellation Policy (https://www.dorsetcouncil.gov.uk/w/penalty-charge-notice-pcn-cancellation-policy)
+2025-07-21T08:47:33.396559 - CHANGE DETECTED: People and Culture Strategy
+2025 to 2029 (https://www.dorsetcouncil.gov.uk/w/people-and-culture-strategy-2025-to-2029)
+2025-07-21T08:47:33.606550 - CHANGE DETECTED: Physical Activity Strategy (https://www.dorsetcouncil.gov.uk/w/physical-activity-strategy)
+2025-07-21T08:47:34.030621 - CHANGE DETECTED: Placement
+Sufficiency Strategy for Children in Care and Care Leavers 2024 to 2027 (https://www.dorsetcouncil.gov.uk/w/placement-sufficiency-strategy-for-children-in-care-and-care-leavers-2024-to-2027)
+2025-07-21T08:47:34.239425 - CHANGE DETECTED: Planning Policy (https://www.dorsetcouncil.gov.uk/w/planning-policy)
+2025-07-21T08:47:34.639203 - CHANGE DETECTED: Policy
+for the use of AI, Automation & Algorithmic Data Processing in Dorset
+Council (https://www.dorsetcouncil.gov.uk/w/policy-for-the-use-of-ai-automation-algorithmic-data-processing-in-dorset-council)
