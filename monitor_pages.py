@@ -45,16 +45,18 @@ else:
 current_hashes = {}
 changed_pages = []  # Store changed pages for email
 
+
 # Open log file for appending
 with open(LOG_FILE, 'a') as log:
-    for url in urls:
+    for idx, url in enumerate(urls):
         try:
             response = requests.get(url, timeout=30)
             response.raise_for_status()
             content = response.text
+            if idx < 2:
+                print("Sample content for", url, ":", content[:500])
             content_hash = hashlib.sha256(content.encode('utf-8')).hexdigest()
             current_hashes[url] = content_hash
-            
             # Compare with previous hash
             if url in previous_hashes:
                 if previous_hashes[url] != content_hash:
@@ -70,7 +72,6 @@ with open(LOG_FILE, 'a') as log:
                 log_line = f"{datetime.utcnow().isoformat()} - NEW URL MONITORED: {title} ({url})\n"
                 log.write(log_line)
                 print("Wrote to log:", log_line.strip())
-                    
         except Exception as e:
             log_line = f"{datetime.utcnow().isoformat()} - ERROR FETCHING {url}: {e}\n"
             log.write(log_line)
