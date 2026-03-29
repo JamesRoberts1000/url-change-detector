@@ -86,6 +86,13 @@ print("Saving current_hashes:", current_hashes)
 with open(HASHES_FILE, 'w') as f:
     json.dump(current_hashes, f, indent=2)
 
+# Write an explicit no-change marker for easier run troubleshooting
+if not changed_pages:
+    with open(LOG_FILE, 'a', encoding='utf-8') as log:
+        log_line = f"{datetime.utcnow().isoformat()} - NO CHANGES THIS RUN\n"
+        log.write(log_line)
+        print("Wrote to log:", log_line.strip())
+
 # Create HTML summary of changes if any were detected
 if changed_pages:
     with open("outputs/changes_summary.html", 'w', encoding='utf-8') as f:
