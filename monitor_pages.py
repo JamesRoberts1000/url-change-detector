@@ -6,6 +6,8 @@ import html
 import re
 from datetime import datetime
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # Debug: Print working directory
 print("Current working directory:", os.getcwd())
@@ -27,6 +29,24 @@ def normalise_content(raw_content):
     content = html.unescape(content)
     content = re.sub(r"\s+", " ", content).strip()
     return content
+
+
+def build_retry_session():
+    """Create a requests session with retry/backoff for transient failures."""
+    retry = Retry(
+        total=3,
+        connect=3,
+        read=3,
+        backoff_factor=1.0,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["HEAD", "GET", "OPTIONS"],
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session = requests.Session()
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
 
 # Debug: Check if hash file exists
 print("Does HASHES_FILE exist?", os.path.exists(HASHES_FILE))
@@ -58,13 +78,14 @@ else:
 # Initialise dictionary to store current hashes
 current_hashes = {}
 changed_pages = []  # Store changed pages for email
+session = build_retry_session()
 
 
 # Open log file for this run only
 with open(LOG_FILE, 'w', encoding='utf-8') as log:
     for idx, url in enumerate(urls):
         try:
-            response = requests.get(url, timeout=30)
+            response = session.get(url, timeout=30)
             response.raise_for_status()
             content = response.text
             normalised_content = normalise_content(content)
