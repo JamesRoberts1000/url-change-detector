@@ -8,24 +8,41 @@ on:
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10'
 
       - name: Install dependencies
         run: pip install requests
 
+      - name: Check for previous hashes artifact
+        id: previous_hashes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          artifact_id=$(gh api "/repos/${{ github.repository }}/actions/artifacts?per_page=100" --jq '.artifacts[] | select(.name=="page-hashes" and .expired==false) | .id' | head -n 1 || true)
+          if [ -n "$artifact_id" ]; then
+            echo "found=true" >> $GITHUB_OUTPUT
+            echo "artifact_id=$artifact_id" >> $GITHUB_OUTPUT
+          else
+            echo "found=false" >> $GITHUB_OUTPUT
+            echo "No previous page-hashes artifact found. Continuing with empty hash state."
+          fi
+
       - name: Download previous hashes
-        uses: actions/download-artifact@v4
+        if: steps.previous_hashes.outputs.found == 'true'
+        uses: actions/download-artifact@v8
         with:
-          name: page-hashes
+          artifact-ids: ${{ steps.previous_hashes.outputs.artifact_id }}
           path: outputs
-        continue-on-error: true
 
       - name: Clear previous summary
         run: rm -f outputs/changes_summary.html
@@ -34,13 +51,13 @@ jobs:
         run: python monitor_pages.py
 
       - name: Upload current hashes
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v8
         with:
           name: page-hashes
           path: outputs/page_hashes.json
 
       - name: Upload change log
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v8
         with:
           name: change-log
           path: outputs/change_log.txt
@@ -61,7 +78,7 @@ jobs:
 
       - name: Send email notification
         if: steps.changes.outputs.changes == 'true'
-        uses: dawidd6/action-send-mail@v3
+        uses: dawidd6/action-send-mail@v16
         with:
           server_address: smtp.gmail.com
           server_port: 465
