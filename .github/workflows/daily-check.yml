@@ -28,10 +28,10 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          artifact_id=$(gh api "/repos/${{ github.repository }}/actions/artifacts?per_page=100" --jq '.artifacts[] | select(.name=="page-hashes" and .expired==false) | .id' | head -n 1 || true)
-          if [ -n "$artifact_id" ]; then
+          run_id=$(gh api "/repos/${{ github.repository }}/actions/artifacts?per_page=100" --jq '.artifacts[] | select(.name=="page-hashes" and .expired==false) | .workflow_run.id' | head -n 1 || true)
+          if [ -n "$run_id" ]; then
             echo "found=true" >> $GITHUB_OUTPUT
-            echo "artifact_id=$artifact_id" >> $GITHUB_OUTPUT
+            echo "run_id=$run_id" >> $GITHUB_OUTPUT
           else
             echo "found=false" >> $GITHUB_OUTPUT
             echo "No previous page-hashes artifact found. Continuing with empty hash state."
@@ -42,6 +42,9 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: page-hashes
+          github-token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          run-id: ${{ steps.previous_hashes.outputs.run_id }}
           path: outputs
 
       - name: Clear previous summary
