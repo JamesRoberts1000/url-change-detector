@@ -2,6 +2,8 @@ import hashlib
 import json
 import os
 import csv
+import html
+import re
 from datetime import datetime
 import requests
 
@@ -13,6 +15,18 @@ URLS_FILE = "extracted_urls.txt"
 HASHES_FILE = "outputs/page_hashes.json"
 LOG_FILE = "outputs/change_log.txt"
 TITLES_FILE = "hyperlinks_with_page_titles.csv"
+
+
+def normalise_content(raw_content):
+    """Reduce HTML noise so hashes track meaningful page changes."""
+    content = raw_content
+    content = re.sub(r"(?is)<script[^>]*>.*?</script>", " ", content)
+    content = re.sub(r"(?is)<style[^>]*>.*?</style>", " ", content)
+    content = re.sub(r"(?is)<!--.*?-->", " ", content)
+    content = re.sub(r"(?is)<[^>]+>", " ", content)
+    content = html.unescape(content)
+    content = re.sub(r"\s+", " ", content).strip()
+    return content
 
 # Debug: Check if hash file exists
 print("Does HASHES_FILE exist?", os.path.exists(HASHES_FILE))
@@ -53,9 +67,10 @@ with open(LOG_FILE, 'w', encoding='utf-8') as log:
             response = requests.get(url, timeout=30)
             response.raise_for_status()
             content = response.text
+            normalised_content = normalise_content(content)
             if idx < 2:
-                print("Sample content for", url, ":", content[:500])
-            content_hash = hashlib.sha256(content.encode('utf-8')).hexdigest()
+                print("Sample normalised content for", url, ":", normalised_content[:500])
+            content_hash = hashlib.sha256(normalised_content.encode('utf-8')).hexdigest()
             current_hashes[url] = content_hash
             # Compare with previous hash
             if url in previous_hashes:
