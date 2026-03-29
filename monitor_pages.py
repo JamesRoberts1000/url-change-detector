@@ -46,8 +46,8 @@ current_hashes = {}
 changed_pages = []  # Store changed pages for email
 
 
-# Open log file for appending
-with open(LOG_FILE, 'a') as log:
+# Open log file for this run only
+with open(LOG_FILE, 'w', encoding='utf-8') as log:
     for idx, url in enumerate(urls):
         try:
             response = requests.get(url, timeout=30)

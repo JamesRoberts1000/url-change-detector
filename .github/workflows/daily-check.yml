@@ -27,6 +27,9 @@ jobs:
           path: outputs
         continue-on-error: true
 
+      - name: Clear previous summary
+        run: rm -f outputs/changes_summary.html
+
       - name: Run monitor script
         run: python monitor_pages.py
 
@@ -45,7 +48,7 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          if grep -q "CHANGE DETECTED" outputs/change_log.txt; then
+          if grep -q "CHANGE DETECTED" outputs/change_log.txt && [ -f outputs/changes_summary.html ]; then
             echo "changes=true" >> $GITHUB_OUTPUT
             # Read the HTML content for email
             CHANGES_HTML=$(cat outputs/changes_summary.html)
